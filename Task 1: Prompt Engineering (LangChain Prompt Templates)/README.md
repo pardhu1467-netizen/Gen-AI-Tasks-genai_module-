@@ -69,8 +69,8 @@ User Input → Validation → Prompt Template → Generated Prompt Output
 
 ---
 ## 🔗 Submission Links
-- 📁 GitHub Repository: 
-- 💼 LinkedIn Post: ()
+- 📁 GitHub Repository: (https://github.com/pardhu1467-netizen/Gen-AI-Tasks-genai_module-/tree/main/Task%201%3A%20Prompt%20Engineering%20(LangChain%20Prompt%20Templates) 
+- 💼 LinkedIn Post: (https://www.linkedin.com/posts/pardhu-mani-viswas-nallamothu-3277622a7_genai-langchain-promptengineering-activity-7448399016666603520-XZin?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEn4-U8BEKSZgpDv2IMun9tXCOLfngksQPo)
 
 ---
 
